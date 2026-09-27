@@ -1,0 +1,52 @@
+Date,Description,Category,Amount,Type,Month
+2026-01-02,Salary - ABC Technologies,Income,3200.00,Credit,January
+2026-01-03,Tesco Supermarket,Groceries,86.45,Debit,January
+2026-01-04,Netflix,Entertainment,15.99,Debit,January
+2026-01-05,Amazon,Shopping,42.75,Debit,January
+2026-01-07,British Gas,Utilities,120.50,Debit,January
+2026-01-08,Council Tax,Housing,145.00,Debit,January
+2026-01-10,Sainsburys,Groceries,64.30,Debit,January
+2026-01-12,Spotify,Entertainment,11.99,Debit,January
+2026-01-15,Electricity Bill,Utilities,78.40,Debit,January
+2026-01-17,Bella Italia,Dining,55.80,Debit,January
+2026-01-19,Amazon,Shopping,29.99,Debit,January
+2026-01-21,Tesco Supermarket,Groceries,72.15,Debit,January
+2026-01-23,Train Travel,Transport,48.60,Debit,January
+2026-01-25,Gym Membership,Health,35.00,Debit,January
+2026-01-27,Pizza House,Dining,32.50,Debit,January
+2026-01-29,Mobile Phone Bill,Utilities,38.00,Debit,January
+2026-01-31,Interest Payment,Income,12.50,Credit,January
+2026-02-02,Salary - ABC Technologies,Income,3200.00,Credit,February
+2026-02-03,Tesco Supermarket,Groceries,92.60,Debit,February
+2026-02-04,Netflix,Entertainment,15.99,Debit,February
+2026-02-06,Amazon,Shopping,65.40,Debit,February
+2026-02-08,British Gas,Utilities,118.75,Debit,February
+2026-02-09,Council Tax,Housing,145.00,Debit,February
+2026-02-11,Sainsburys,Grobruary
+2026-02-14,Bella Italia,Dining,72.40,Debit,February
+2026-02-16,Electricity Bill,Utilities,81.30,Debit,February
+2026-02-18,Amazon,Shopping,34.25,Debit,February
+2026-02-20,Tesco Supermarket,Groceries,75.80,Debit,February
+2026-02-22,Train Travel,Transport,52.40,Debit,Februaryceries,58.20,Debit,February
+2026-02-12,Spotify,Entertainment,11.99,Debit,Fe
+2026-02-24,Gym Membership,Health,35.00,Debit,February
+2026-02-26,Pizza House,Dining,41.50,Debit,February
+2026-02-28,Mobile Pho
+ne Bill,Utilities,38.00,Debit,February
+2026-03-02,Salary - ABC Technologies,Income,3200.00,Credit,March
+2026-03-03,Tesco Supermarket,Groceries,105.30,Debit,March
+2026-03-04,Netflix,Entertainment,15.99,Debit,March
+2026-03-05,Amazon,Shopping,85.60,Debit,March
+2026-03-07,British Gas,Utilities,125.20,Debit,March
+2026-03-08,Council Tax,Housing,145.00,Debit,March
+2026-03-10,Sainsburys,Groceries,69.45,Debit,March
+2026-03-12,Spotify,Entertainment,11.99,Debit,March
+2026-03-14,Bella Italia,Dining,68.50,Debit,March
+2026-03-16,Electricity Bill,Utilities,84.70,Debit,March
+2026-03-18,Amazon,Shopping,52.80,Debit,March
+2026-03-20,Tesco Supermarket,Groceries,88.90,Debit,March
+2026-03-22,Train Travel,Transport,61.20,Debit,March
+2026-03-24,Gym Membership,Health,35.00,Debit,March
+2026-03-26,Pizza House,Dining,45.75,Debit,March
+2026-03-28,Mobile Phone Bill,Utilities,38.00,Debit,March
+2026-03-30,Freelance Payment,Income,450.00,Credit,March

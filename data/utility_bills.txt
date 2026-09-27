@@ -1,0 +1,110 @@
+UTILITY BILLS - SYNTHETIC CUSTOMER RECORD
+==========================================
+
+Customer Name: Alex Morgan
+Customer Reference: DEMO-UK-45821
+Statement Period: January 2026 - March 2026
+
+
+------------------------------------------
+ELECTRICITY
+------------------------------------------
+
+Provider: Bright Energy UK
+Account Number: DEMO-ELEC-10234
+
+January 2026
+Billing Date: 15 January 2026
+Amount Due: £78.40
+Due Date: 25 January 2026
+Status: Paid
+
+February 2026
+Billing Date: 16 February 2026
+Amount Due: £81.30
+Due Date: 26 February 2026
+Status: Paid
+
+March 2026
+Billing Date: 16 March 2026
+Amount Due: £84.70
+Due Date: 26 March 2026
+Status: Paid
+
+Payment Method: Direct Debit
+
+
+------------------------------------------
+GAS
+------------------------------------------
+
+Provider: British Gas Demo Services
+Account Number: DEMO-GAS-78125
+
+January 2026
+Billing Date: 07 January 2026
+Amount Due: £120.50
+Due Date: 20 January 2026
+Status: Paid
+
+February 2026
+Billing Date: 08 February 2026
+Amount Due: £118.75
+Due Date: 21 February 2026
+Status: Paid
+
+March 2026
+Billing Date: 07 March 2026
+Amount Due: £125.20
+Due Date: 20 March 2026
+Status: Paid
+
+Payment Method: Direct Debit
+
+
+------------------------------------------
+MOBILE PHONE
+------------------------------------------
+
+Provider: Demo Mobile UK
+Account Number: DEMO-MOB-56321
+
+Monthly Charge: £38.00
+
+January 2026: £38.00 - Paid
+February 2026: £38.00 - Paid
+March 2026: £38.00 - Paid
+
+Payment Method: Direct Debit
+
+
+------------------------------------------
+COUNCIL TAX
+------------------------------------------
+
+Authority: Demo Borough Council
+Account Number: DEMO-CT-99821
+
+Monthly Payment: £145.00
+
+January 2026: £145.00 - Paid
+February 2026: £145.00 - Paid
+March 2026: £145.00 - Paid
+
+Payment Method: Direct Debit
+
+
+------------------------------------------
+UTILITY SUMMARY
+------------------------------------------
+
+Electricity - 3 Months: £244.40
+Gas - 3 Months: £364.45
+Mobile Phone - 3 Months: £114.00
+Council Tax - 3 Months: £435.00
+
+Total Utility and Household Bills: £1,157.85
+
+
+END OF DOCUMENT
+==========================================

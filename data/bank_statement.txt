@@ -1,0 +1,84 @@
+BANK STATEMENT - SYNTHETIC DATA
+================================
+
+Bank Name: DemoBank UK
+Account Holder: Alex Morgan
+Account Number: XXXX-XXXX-4582
+Statement Period: 01 January 2026 - 31 March 2026
+Currency: GBP
+
+
+================================
+JANUARY 2026
+================================
+
+Date        Description                     Category          Amount (£)    Type
+02/01/2026  Salary - ABC Technologies       Income            3200.00       Credit
+03/01/2026  Tesco Supermarket               Groceries          -86.45       Debit
+04/01/2026  Netflix Subscription             Entertainment      -15.99       Debit
+05/01/2026  Amazon Purchase                  Shopping           -42.75       Debit
+07/01/2026  British Gas                      Utilities          -120.50      Debit
+08/01/2026  Council Tax                      Housing            -145.00      Debit
+10/01/2026  Sainsbury's                      Groceries          -64.30       Debit
+12/01/2026  Spotify Premium                  Entertainment       -11.99      Debit
+15/01/2026  Electricity Bill                 Utilities           -78.40      Debit
+17/01/2026  Restaurant - Bella Italia        Dining              -55.80      Debit
+19/01/2026  Amazon Purchase                  Shopping            -29.99      Debit
+21/01/2026  Tesco Supermarket                Groceries           -72.15      Debit
+23/01/2026  Train Travel                     Transport           -48.60      Debit
+25/01/2026  Gym Membership                   Health              -35.00      Debit
+27/01/2026  Restaurant - Pizza House         Dining              -32.50      Debit
+29/01/2026  Mobile Phone Bill                Utilities           -38.00      Debit
+31/01/2026  Interest Payment                 Income               12.50       Credit
+
+
+================================
+FEBRUARY 2026
+================================
+
+Date        Description                     Category          Amount (£)    Type
+02/02/2026  Salary - ABC Technologies       Income            3200.00       Credit
+03/02/2026  Tesco Supermarket               Groceries          -92.60       Debit
+04/02/2026  Netflix Subscription             Entertainment      -15.99       Debit
+06/02/2026  Amazon Purchase                  Shopping           -65.40       Debit
+08/02/2026  British Gas                      Utilities          -118.75      Debit
+09/02/2026  Council Tax                      Housing            -145.00      Debit
+11/02/2026  Sainsbury's                      Groceries          -58.20       Debit
+12/02/2026  Spotify Premium                  Entertainment       -11.99      Debit
+14/02/2026  Restaurant - Bella Italia        Dining              -72.40      Debit
+16/02/2026  Electricity Bill                 Utilities           -81.30      Debit
+18/02/2026  Amazon Purchase                  Shopping            -34.25      Debit
+20/02/2026  Tesco Supermarket                Groceries           -75.80      Debit
+22/02/2026  Train Travel                     Transport           -52.40      Debit
+24/02/2026  Gym Membership                   Health              -35.00      Debit
+26/02/2026  Restaurant - Pizza House         Dining              -41.50      Debit
+28/02/2026  Mobile Phone Bill                Utilities           -38.00      Debit
+
+
+================================
+MARCH 2026
+================================
+
+Date        Description                     Category          Amount (£)    Type
+02/03/2026  Salary - ABC Technologies       Income            3200.00       Credit
+03/03/2026  Tesco Supermarket               Groceries          -105.30      Debit
+04/03/2026  Netflix Subscription             Entertainment      -15.99      Debit
+05/03/2026  Amazon Purchase                  Shopping           -85.60      Debit
+07/03/2026  British Gas                      Utilities          -125.20      Debit
+08/03/2026  Council Tax                      Housing            -145.00      Debit
+10/03/2026  Sainsbury's                      Groceries          -69.45      Debit
+12/03/2026  Spotify Premium                  Entertainment       -11.99      Debit
+14/03/2026  Restaurant - Bella Italia        Dining              -68.50      Debit
+16/03/2026  Electricity Bill                 Utilities           -84.70      Debit
+18/03/2026  Amazon Purchase                  Shopping            -52.80      Debit
+20/03/2026  Tesco Supermarket                Groceries           -88.90      Debit
+22/03/2026  Train Travel                     Transport           -61.20      Debit
+24/03/2026  Gym Membership                   Health              -35.00      Debit
+26/03/2026  Restaurant - Pizza House         Dining              -45.75      Debit
+28/03/2026  Mobile Phone Bill                Utilities           -38.00      Debit
+30/03/2026  Freelance Payment                Income             450.00       Credit
+
+
+================================
+END OF STATEMENT
+================================

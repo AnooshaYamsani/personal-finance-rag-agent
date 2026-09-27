@@ -1,0 +1,119 @@
+SUBSCRIPTION RECORD
+===================
+
+Customer Name: Alex Morgan
+Customer Reference: DEMO-SUB-45821
+
+------------------------------------------
+ACTIVE SUBSCRIPTIONS
+------------------------------------------
+
+1. Netflix
+
+Service: Netflix Standard
+Provider: Netflix Demo
+Category: Entertainment
+Monthly Cost: £15.99
+Billing Date: 04 of every month
+Payment Method: Debit Card
+Status: Active
+
+January 2026: £15.99
+February 2026: £15.99
+March 2026: £15.99
+
+
+2. Spotify
+
+Service: Spotify Premium
+Provider: Spotify Demo
+Category: Entertainment
+Monthly Cost: £11.99
+Billing Date: 12 of every month
+Payment Method: Debit Card
+Status: Active
+
+January 2026: £11.99
+February 2026: £11.99
+March 2026: £11.99
+
+
+3. Gym Membership
+
+Service: Fitness Plus Membership
+Provider: Fitness Plus Demo
+Category: Health and Fitness
+Monthly Cost: £35.00
+Billing Date: 25 of every month
+Payment Method: Direct Debit
+Status: Active
+
+January 2026: £35.00
+February 2026: £35.00
+March 2026: £35.00
+
+
+4. Cloud Storage
+
+Service: CloudBox 200GB
+Provider: CloudBox Demo
+Category: Technology
+Monthly Cost: £2.99
+Billing Date: 18 of every month
+Payment Method: Debit Card
+Status: Active
+
+January 2026: £2.99
+February 2026: £2.99
+March 2026: £2.99
+
+
+5. Online Learning
+
+Service: LearnPro Premium
+Provider: LearnPro Demo
+Category: Education
+Monthly Cost: £19.99
+Billing Date: 20 of every month
+Payment Method: Debit Card
+Status: Active
+
+January 2026: £19.99
+February 2026: £19.99
+March 2026: £19.99
+
+
+------------------------------------------
+SUBSCRIPTION SUMMARY
+------------------------------------------
+
+Netflix: £15.99/month
+Spotify: £11.99/month
+Fitness Plus: £35.00/month
+CloudBox: £2.99/month
+LearnPro: £19.99/month
+
+Total Monthly Subscription Cost: £85.96
+
+Estimated Annual Subscription Cost: £1,031.52
+
+
+------------------------------------------
+CANCELLED SUBSCRIPTIONS
+------------------------------------------
+
+Service: VideoWorld Premium
+Category: Entertainment
+Monthly Cost: £9.99
+Status: Cancelled
+Cancellation Date: 15 December 2025
+
+Service: NewsPlus Digital
+Category: News
+Monthly Cost: £7.99
+Status: Cancelled
+Cancellation Date: 10 November 2025
+
+
+END OF DOCUMENT
+==========================================

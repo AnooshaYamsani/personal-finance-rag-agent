@@ -1,0 +1,19 @@
+INSURANCE POLICY
+
+Policy Number: DEMO-POL-45821
+
+The policy provides coverage for accidental damage to eligible
+personal property.
+
+Coverage Limit: £5,000
+
+Exclusions:
+- Intentional damage
+- Normal wear and tear
+- Damage caused by illegal activities
+
+Excess:
+The policyholder must pay an excess of £150 for eligible claims.
+
+Policy Period:
+01 January 2026 - 31 December 2026
