@@ -1,1 +1,22 @@
+An embedding:
+
+Simple example:
+
+"What is my electricity bill?"
+
+             ↓ embedding
+
+[0.12, -0.43, 0.88, ...]
+
+Another sentence:
+
+"How much was my power bill?"
+
+             ↓ embedding
+
+[0.11, -0.41, 0.86, ...]
+
+
+--------------------------------------
+
 
