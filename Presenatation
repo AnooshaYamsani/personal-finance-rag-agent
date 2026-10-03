@@ -20,3 +20,97 @@ Another sentence:
 --------------------------------------
 
 
+
+
+when I ask: What was my electricity bill in February?”
+
+User question
+     ↓
+LangGraph Agent
+     ↓
+Recognizes this as a document question
+     ↓
+search_finance_documents tool
+     ↓
+ask_rag()
+     ↓
+Retriever
+     ↓
+Question converted into semantic representation
+     ↓
+ChromaDB similarity search
+     ↓
+Top 3 relevant chunks
+     ↓
+Context constructed
+     ↓
+Prompt + context sent to LLM
+     ↓
+LLM generates grounded answer
+     ↓
+Agent returns final answer
+
+->the LLM doesn't need to memorize my electricity bill
+-------------------------------------
+
+
+a transaction query end-to-end
+
+Question:
+
+“How much did I spend on groceries?”
+
+Say:
+
+User
+ ↓
+Agent
+ ↓
+analyze_finance_transactions
+ ↓
+analyze_transactions()
+ ↓
+Pandas DataFrame
+ ↓
+Filter Type = Debit
+ ↓
+Filter Category = Groceries
+ ↓
+Sum Amount
+ ↓
+Result
+ ↓
+Agent
+ ↓
+Final answer
+
+->The answer does not need vector retrieval
+----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acccvvv
+
+
+
+
+
+
+
+
+
+
+
+
